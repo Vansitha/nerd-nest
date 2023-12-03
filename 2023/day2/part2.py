@@ -40,6 +40,7 @@ for line in lines:
         if color_word == "green":
             green_list.append(num_cubes)
 
+
     red_max = max(red_list)
     blue_max = max(blue_list)
     green_max = max(green_list)

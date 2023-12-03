@@ -1,7 +1,7 @@
 import re
 
 with open("input.txt") as file:
-    data = file.readlines()
+data = file.readlines()
 
 lines = [g.strip() for g in data]
 
