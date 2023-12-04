@@ -1,4 +1,4 @@
-with open("input.txt") as file:
+with open("sample2.txt") as file:
     lines = file.readlines()
 
 content = [g.strip() for g in lines]
